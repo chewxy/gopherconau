@@ -222,7 +222,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJn3JMjiauEmsRXz9JC
       - name: "Naviro"
         logo: "/images/logos/sponsors/naviro.png"
         logotype: "/images/logos/sponsors/naviro.png"
-        url: "https://www.campaignmonitor.com/"
+        url: "https://www.naviro.com.au/"
         sponsorship: "Other"
         type: "Recruitment Partner"
   # The entire CONFERENCE schedule (workshops are on the workshop page)
@@ -739,7 +739,7 @@ Outside of work, Josh likes to get lost by following the forgotten art of hitchh
       presentation:
         title: "Sydney's most famous beach!"
         description: "The day begins early at Bondi Beach. As a glorious sunrise edges above the ocean horizon, surfers gracefully carve up waves, joggers limber up on the promenade and swimmers flip turn in Bondi Baths. The famous beach is buzzing from dawn to dusk and then Bondi&rsquo;s night-time scene sparkles."
-        
+
   footer:
      # logo: gopher-kangaroo-sydney-opera.svg
      thanks:
