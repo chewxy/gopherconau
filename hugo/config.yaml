@@ -464,24 +464,24 @@ Outside of work, Josh likes to get lost by following the forgotten art of hitchh
       description: "Gophers have 25 minutes to chill."
 
       #FRI 11:30-12:00 Cera
-    - name: "Cera Davies"
-      date: "1/11/2019"
-      time: "11:30"
-      photo: "https://secure.gravatar.com/avatar/1e2f5505c9fd1adf6a2203556d0791d5?s=500"
-      bio: '<p>I&#39;ve been coding Go since 2011. I&#39;m an infrastructure and platform engineer based in Melbourne, working in the energy sector on distributed &amp; renewable energy products. In my spare time I&#39;m into dancing, cycling, gabber, videogames &amp; politics. Mir veln zey iberlebn.</p>'
-      company: "GreenSync"
-      link:
-        href: "mailto://ceralena.davies@gmail.com"
-        text: "ceralena.davies@gmail.com"
-      presentation:
-        title: "Pragmatic Concurrency"
-        description: '<p>Concurrency is one of Go&#39;s big selling points, but it&#39;s also something that trips up developers and  leads to projects stalling under the weight of complexity. I discuss my experience working on large concurrent systems, outline some common pitfalls, and share some opinions on best practices.</p>'
-        level: Intermediate
+ #   - name: "Cera Davies"
+ #     date: "1/11/2019"
+ #    time: "11:30"
+ #     photo: "https://secure.gravatar.com/avatar/1e2f5505c9fd1adf6a2203556d0791d5?s=500"
+ #     bio: '<p>I&#39;ve been coding Go since 2011. I&#39;m an infrastructure and platform engineer based in Melbourne, working in the energy sector on distributed &amp; renewable energy products. In my spare time I&#39;m into dancing, cycling, gabber, videogames &amp; politics. Mir veln zey iberlebn.</p>'
+ #     company: "GreenSync"
+ #     link:
+ #       href: "mailto://ceralena.davies@gmail.com"
+ #       text: "ceralena.davies@gmail.com"
+ #     presentation:
+ #       title: "Pragmatic Concurrency"
+ #       description: '<p>Concurrency is one of Go&#39;s big selling points, but it&#39;s also something that trips up developers and  leads to projects stalling under the weight of complexity. I discuss my experience working on large concurrent systems, outline some common pitfalls, and share some opinions on best practices.</p>'
+ #       level: Intermediate
 
       #FRI 12:00-12:30 Ben
     - name: "Ben Boyter"
       date: "1/11/2019"
-      time: "12:00"
+      time: "11:30"
       photo: "https://secure.gravatar.com/avatar/4e078aff82f20742faba12084d25ced1?s=500"
       bio: "A technical lead for Kablamo but at heart a codemonkey. I write about various topics on my blog https://boyter.org/ which occasionally makes the front of the orange site, as well as run searchcode.com as a side gig for fun. I like writing code, walks on beach and getting caught in the rain. I hate eating raw tomato unless you prepare it somehow, and slices on a hamburger does not count as preparation."
       company: "Kablamo"
@@ -491,6 +491,19 @@ Outside of work, Josh likes to get lost by following the forgotten art of hitchh
       presentation:
         title: "Sloc Cloc and Code - Can a crusty Go program outperform a well written Rust Project?"
         description: '<p>Sloc cloc and code. How a death march project lead to learning Go, the creation of a source lines of code counter which is faster and more accurate then the Rust/ATS/C equivalents, while learning about some really bizarre performance characteristics.</p>'
+        level: All levels
+
+    - name: "LIGHTNING TALKS"
+      date: "1/11/2019"
+      time: "12:00"
+      photo: ""
+      bio: ""
+      company: ""
+      link:
+        href: ""
+        text: ""
+      presentation:
+        title: "Lightning Talks"
         level: All levels
 
       #THU 12:35-14:00
